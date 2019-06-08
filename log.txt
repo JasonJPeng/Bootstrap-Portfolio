@@ -1,2 +1,4 @@
 2019-06-07: Complted index.html with bootstrap only. Need to further justify the looks 
-by using style.css
+            by using style.css
+
+            It looks like I need to make 3 row x 3 col design 
