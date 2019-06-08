@@ -1,0 +1,2 @@
+2019-06-07: Complted index.html with bootstrap only. Need to further justify the looks 
+by using style.css
