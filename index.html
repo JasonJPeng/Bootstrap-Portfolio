@@ -8,13 +8,14 @@
 </head>
 <body>
   <div class="container">
-    <!-- The Banner  -->
-    <div class="row" id = "banner">
-      <div class="col-4">
+    <!-- 1. The Banner (or Top)  4 column 2, 4, 4, 2 -->
+    <div class="row" >
+      <div class="col-2"></div>
+      <div class="col-4" id="banner">
           <h1><span class="badge badge-secondary">Jason Peng</span></h1>
       </div>
-      
-      <div class="col-8">
+      <!-- Navigation -->
+      <div class="col-4">
           <ul class="nav justify-content-end">
               <li class="nav-item">
                 <a class="nav-link" href="contact.html">Contact</a>
@@ -28,18 +29,37 @@
               
             </ul>
       </div>
+      <div class="col-2"></div>  <!-- Space -->
+    </div>
+    
+    <!-- 2. Space bar Nothing but a space  1 column-->
+    <div class="row">
+      <div class="col"></div>
     </div>
 
-    <!-- The Header About Me  -->
+     <!-- 3. The area for title   3 column 2, 8, 2-->
     <div class="row">
-       <div class="col">
-         <h1>Jason Peng</h1>
-         <hr>
-       </div> 
+      <div class="col-2">
+         <!-- Only space  -->
+      </div>
+  
+      <div class="col-8">
+         <!-- title  -->
+        
+              <h1>Jason Peng</h1>
+              <hr>
+      </div> 
+      <div class="col-2">
+          <!-- Only space  -->
+       </div>
     </div>
-    <!-- The main Area -->
+
+    <!-- 4. main are   3 columns 2, 8, 2-->
     <div class="row">
-        <div class="col" id = "contents">
+        <div class="col-2">
+            <!-- Only space  -->
+         </div>
+         <div class="col-8" id = "contents">
             <img src="images/jason.jpg" width="250" class="rounded float-left" alt="Jason Peng">
             <p>
                 This is me Jason Peng dskjbkldjs fsd l jgdsklg ns; lkashgsjklh gsbdjfbndsabl s sdkjl bdsklj bfajksl
@@ -54,20 +74,35 @@
                 
                 A custom property’s name represented by an identifier that starts with two dashes. Custom properties are solely for use by authors and users; CSS will never give them a meaning beyond what is presented here.
             </p>
-            </div>
+          
         </div> 
-     </div>
-  </div>
-  <!-- Footer -->
-<footer class="page-footer font-small blue">
-    <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">
-      © 2019 Copyright: Jason Peng
+         <div class="col-2">
+            <!-- Only space  -->
+         </div>
     </div>
-    <!-- Copyright -->
-  
-  </footer>
-  <!-- Footer -->
+
+  <!-- 5. Space bar   1 column -->
+    <div class="row">
+      <div class="col"></div>
+    </div>
+
+<!-- 6. footer   1 column -->
+    <div class="row">
+      <div class="col">
+          <footer class="page-footer font-small blue">
+              <!-- Copyright -->
+              <div class="footer-copyright text-center py-3">
+                © 2019 Copyright: Jason Peng
+              </div>
+              <!-- Copyright -->
+            
+          </footer>
+
+      </div>
+
+    </div>
+
+  </div>
 
 
   <!-- Optional JavaScript -->
