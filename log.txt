@@ -21,3 +21,5 @@
              row 6: 12    (footer)
 
              matching the colors and fonts in index.html
+             adding one blue line at the bottom
+             
