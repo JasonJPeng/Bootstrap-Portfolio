@@ -4,9 +4,20 @@
             It looks like I need to make 3 row x 3 col design 
 
  2019 06-08: restructure the grid system for bootstrap, only one level
-             row 1: 2s,4,4,2s  (banner)
+             row 1: 1s,4,4,2s  (banner)
              row 2: 12s    (space)
              row 3: 2s,8,2s (title)
              row 4: 2s,8,2s (main area)
              row 5: 12s   (space)
              row 6: 12    (footer)
+
+             Changed to 
+
+             row 1: 1s,5,5,1s  (banner)
+             row 2: 12s    (space)
+             row 3: 1s,10,1s (title)
+             row 4: 1s,10,1s (main area)
+             row 5: 12s   (space)
+             row 6: 12    (footer)
+
+             matching the colors and fonts in index.html
