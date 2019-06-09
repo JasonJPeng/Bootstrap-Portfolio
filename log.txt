@@ -22,4 +22,7 @@
 
              matching the colors and fonts in index.html
              adding one blue line at the bottom
+
+             copleted min. requirment
+             use object-fit:cover for gallery
              
