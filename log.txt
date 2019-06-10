@@ -25,4 +25,11 @@
 
              copleted min. requirment
              use object-fit:cover for gallery
+
+2019 06-09  Change Nav bar in index.html to disappear when screeen is small
+            problem: 1. <hr> not good in small screem
+                     2. Collapse menu is not shown
+                                  
+
+
              
