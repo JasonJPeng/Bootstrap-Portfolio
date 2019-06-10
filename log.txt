@@ -29,7 +29,11 @@
 2019 06-09  Change Nav bar in index.html to disappear when screeen is small
             problem: 1. <hr> not good in small screem
                      2. Collapse menu is not shown
-                                  
+
+            Created portfolio.htm and contact.htm to keep the meat of the html pages
+
+            deploy the new change for index.html to portfolio.html and contact.html         
+
 
 
              

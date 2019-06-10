@@ -45,9 +45,10 @@ h1 {
 }
 
 #gallery img {
-    width:200px;
-    height:200px;
+    width:230px;
+    height:230px;
     object-fit: cover;
     margin:0 10px 10px 0;
 }
+
 
